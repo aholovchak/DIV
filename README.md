@@ -33,7 +33,7 @@ This section applies **DIV** to real-world datasets.
 
 ## **Methods Overview**  
 
-This repository includes implementations of the following instrumental variable (IV) and distributional regression methods:  
+DIV is benchmarked against the following instrumental variable (IV) and distributional regression methods:  
 
 - **Control Functions (CF)** – An IV method developed in econometrics **(Heckman, 1976; Newey, 1999)** for interventional mean estimation. It decomposes the hidden confounder into a treatment-correlated and an independent part. The nonlinear version uses **natural cubic splines** for basis expansion (**Guo, 2016**).  
 
