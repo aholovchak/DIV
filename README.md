@@ -7,7 +7,7 @@ This repository contains the code for the **Distributional Instrumental Variable
 - 📂 **`data/`** – Contains all datasets, organized by subsections.  
 - 📂 **`results/`** – Stores the results of experiments, following the same structure as `data/`.  
 - 📂 **`Python/`** – Implements **DeepIV, DeepGMM, and HSIC-X** in Python.  
-- 📂 **`R/`** – Implements **DIV, Engression, and Control Functions (CF)** in R.  
+- 📂 **`R/`** – Implements **DIV, Engression, and Control Functions (CF)** in R. Additionally, this folder contains R scripts for processing method results, generating tables, and creating plots.
 
 ---
 
