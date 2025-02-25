@@ -1,0 +1,26 @@
+Package: DistributionIV
+Type: Package
+Title: Distributional Instrumental Variable (DIV) Model for Estimation of Interventional Distribution
+Version: 0.1.0
+Authors@R: c(person("Anastasiia", "Holovchak", 
+                    email = "anastasiia.holovchak@stat.math.ethz.ch",
+                    role = c("aut", "cre")))
+Description: Distributional instrumental variable (DIV) model 
+    for estimation of the interventional distribution of the outcome Y under a 
+    do-intervention on the treatment X. Instruments, predictors and targets can 
+    be univariate or multivariate. Functionality includes estimation of the (conditional)
+    interventional mean and quantiles, as well as sampling from the fitted (conditional)
+    interventional distribution.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: 
+    torch, 
+    checkmate,
+    vctrs
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Maintainer: Anastasiia Holovchak <anastasiia.holovchak@stat.math.ethz.ch>
