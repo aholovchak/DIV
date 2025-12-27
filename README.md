@@ -13,7 +13,7 @@ This repository contains the code for the **Distributional Instrumental Variable
 
 ## **Sections Overview**  
 
-### ** Section 6 – Simulated Experiments**  
+### **Section 6 – Simulated Experiments**  
 This section contains simulations evaluating the **DIV** method under various conditions.  
 - **Methods Used**:
   - **Python**: DeepIV, DeepGMM, HSIC-X  
