@@ -13,21 +13,26 @@ This repository contains the code for the **Distributional Instrumental Variable
 
 ## **Sections Overview**  
 
-### **📖 Section 5 – Simulated Experiments**  
+### ** Section 6 – Simulated Experiments**  
 This section contains simulations evaluating the **DIV** method under various conditions.  
-- **Methods Used**:
-  - **Python**: DeepIV, DeepGMM, HSIC-X  
-  - **R**: DIV, Engression, CF  
-- **Data Location**: `data/sec5.x/`  
-- **Results Location**: `results/sec5.x/`  
-
-### **📖 Section 6 – Real-World Applications**  
-This section applies **DIV** to real-world datasets.  
 - **Methods Used**:
   - **Python**: DeepIV, DeepGMM, HSIC-X  
   - **R**: DIV, Engression, CF  
 - **Data Location**: `data/sec6.x/`  
 - **Results Location**: `results/sec6.x/`  
+
+### **Section 7 – Real-World Applications**
+This section applies **DIV** to two real-world datasets.
+
+- **Section 7.1 (Colonial origins)**:
+  - **Data**: Publicly available and automatically downloaded by the R script (see link in the manuscript)
+- **Section 7.2 (Single-cell data)**:
+  - **Data**: Included in the repository under `data/sec7.2/`
+
+- **Methods Used**:
+  - **Python**: DeepIV, DeepGMM, HSIC-X
+  - **R**: DIV, Engression, CF
+- **Results Location**: `results/sec7.x/`
 
 ---
 
