@@ -18,8 +18,8 @@ This section contains simulations evaluating the **DIV** method under various co
 - **Methods Used**:
   - **Python**: DeepIV, DeepGMM, HSIC-X  
   - **R**: DIV, Engression, CF  
-- **Data Location**: `data/sec6.x/`  
-- **Results Location**: `results/sec6.x/`  
+- **Data**: `data/sec6.x/`  
+- **Results**: `results/sec6.x/`  
 
 ### **Section 7 – Real-World Applications**
 This section applies **DIV** to two real-world datasets.
@@ -32,7 +32,7 @@ This section applies **DIV** to two real-world datasets.
 - **Methods Used**:
   - **Python**: DeepIV, DeepGMM, HSIC-X
   - **R**: DIV, Engression, CF
-- **Results Location**: `results/sec7.x/`
+- **Results**: `results/sec7.x/`
 
 ---
 
